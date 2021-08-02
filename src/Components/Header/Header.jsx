@@ -19,7 +19,7 @@ const useStyles = makeStyles((theme) => ({
   navbar: {
     display: 'flex',
     justifyContent: 'space-between',
-    width: '1350px',
+    maxwidth: '1350px',
     alignItems: 'center',
   },
   wrapper: {

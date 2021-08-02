@@ -266,6 +266,14 @@
       "positive": true,
       "date": "29.07.2021",
       "id": 5
+    },
+    {
+      "userId": 1,
+      "cafeId": 1,
+      "text": "gfgfgfg",
+      "positive": true,
+      "date": "02.08.2021",
+      "id": 6
     }
   ]
 }
